@@ -3889,7 +3889,7 @@
 		/*background-image: url("images/overlay.png"), url("../../images/banner.jpg");*/
 		background-image: url('<%= asset_path("banner.jpg") %>')
 		TODO;
-		/*background-size: cover;*/
+		background-size: cover;
 		text-align: center;
 	}
 
