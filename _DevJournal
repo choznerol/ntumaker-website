@@ -1,0 +1,24 @@
+=== dev journal ===
+
+=== TODOs ===
+
+	* update Home content (!)
+	* update About content
+	* update Contect content
+	* link js files
+	* fix nav bar
+	* fix or delete GET IN TOUCH
+
+	* avoid static_pages in url
+	* retrive the second bg (CSS problem?)
+
+
+--- 8/19 ---
+
+	Favicon:
+		created favicons for different platforms (ref: realfavicongenerator.com)
+
+	Deploy:
+		found, fixed bug w/ route and CSS, redeployed
+
+
