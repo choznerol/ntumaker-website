@@ -7,7 +7,7 @@
 	* update Contect content
 	* link js files
 	* fix nav bar
-	* fix or delete GET IN TOUCH
+	* hide GET IN TOUCH box
 
 	* avoid static_pages in url
 	* retrive the second bg (CSS problem?)
@@ -19,6 +19,61 @@
 		created favicons for different platforms (ref: realfavicongenerator.com)
 
 	Deploy:
-		found, fixed bug w/ route and CSS, redeployed
+		found, fixed bug w/ route and CSS. Redeployed.
+
+
+--- 8/23 ---
+
+	Image: 
+		updated gallery and background.
+		install ImageMagick and RMagick to deal w/ images ($convert, $mogrigy)
+			ref: http://stackoverflow.com/questions/28515128/best-image-optimization-technique-for-rails
+
+	Deploy:
+		fix deploy problem after changing username of github.
+
+
+/*
+links to albums
+
+0708_cwcamp
+https://www.facebook.com/ntumaker2015/photos/?tab=album&album_id=254650044917469
+
+0625_outing
+https://www.facebook.com/ntumaker2015/photos/?tab=album&album_id=248224995559974
+
+0611_ending
+https://www.facebook.com/ntumaker2015/photos/a.145043579211450.1073741828.144816902567451/241339419581865/?type=3
+
+0519_rpi1
+https://www.facebook.com/ntumaker2015/photos/?tab=album&album_id=228529260862881
+
+0512_arduinocargame
+https://www.facebook.com/ntumaker2015/photos/?tab=album&album_id=226395101076297
+
+0508_makerfaire
+https://www.facebook.com/ntumaker2015/posts/221624488220025
+
+0505_demoday
+https://www.facebook.com/ntumaker2015/photos/?tab=album&album_id=219777741738033
+
+0407_appinventor
+https://www.facebook.com/ntumaker2015/photos/?tab=album&album_id=202945363421271
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
