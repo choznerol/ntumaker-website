@@ -14,23 +14,26 @@
 
 
 --- 8/19 ---
-
 	Favicon:
 		created favicons for different platforms (ref: realfavicongenerator.com)
-
 	Deploy:
 		found, fixed bug w/ route and CSS. Redeployed.
 
-
 --- 8/23 ---
-
 	Image: 
 		updated gallery and background.
 		install ImageMagick and RMagick to deal w/ images ($convert, $mogrigy)
 			ref: http://stackoverflow.com/questions/28515128/best-image-optimization-technique-for-rails
-
 	Deploy:
 		fix deploy problem after changing username of github.
+
+--- 8/25 ---
+	Page titles:
+		<% provide(:title, "Home") %>
+		<%= yield(:title)
+		TODO: https://www.railstutorial.org/book/static_pages#code-home_view_interior	
+
+		defind a helper function full_title()
 
 
 /*
